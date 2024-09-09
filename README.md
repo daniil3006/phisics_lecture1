@@ -16,8 +16,8 @@ x = r * sin(theta) * cos(phi) <br/>
 y = r * sin(theta) * sin(phi) <br/>
 z = r * cos(theta)
 ## Формулы перевода из декартовой системы координат в цилиндрическую
-r = sqrt(x^2 + y^2); <br/>
-phi = arctg(y / x);
+r = sqrt(x^2 + y^2) <br/>
+phi = arctg(y / x)
 ## Формулы перевода из цилиндрической системы координат в декартовую
 x = r * cos(phi) <br/>
 y = r * sin(phi)
